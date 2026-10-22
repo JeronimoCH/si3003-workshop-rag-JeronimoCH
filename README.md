@@ -1,6 +1,6 @@
 # Workshop RAG · SI3003 Inteligencia Artificial
 
-- **Autores (trabajo en pareja):** Jerónimo Castaño Herrera
+- **Autor:** Jerónimo Castaño Herrera
 - **Usuarios de GitHub:** JeronimoCH
 - **Fecha:** 21 de octubre de 2026
 - **Entrega a:** jipadillab@eafit.edu.co
